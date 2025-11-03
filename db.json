@@ -1,0 +1,85 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "Classic Comfort Fit Joggers",
+          "price": 25,
+          "description": "",
+          "category": "sport wear",
+          "image": "https://i.imgur.com/ZKGofuB.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Classic Comfort Drawstring Joggers",
+          "price": 79,
+          "description": "",
+          "category": "sport wear",
+          "image": "https://i.imgur.com/mp3rUty.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Classic Red Jogger Sweatpants",
+          "price": 98,
+          "description": "",
+          "category": "sport wear",
+          "image": "https://i.imgur.com/9LFjwpI.jpeg"
+          
+        },
+        {
+            "id": 4,
+            "name": "Sleek White & Orange Wireless Gaming Controller",
+            "price": 69,
+            "description": "",
+            "category": "electronics",
+            "image_url": "https://i.imgur.com/ZANVnHE.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Sleek Wireless Headphone & Inked Earbud Set",
+          "price": 44,
+          "description": "",
+          "category": "electronics",
+          "image_url": "https://i.imgur.com/yVeIeDa.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Sleek All-Terrain Go-Kart",
+          "price": 37,
+          "description": "",
+          "category": "miscellaneous",
+          "image_url": "https://i.imgur.com/Ex5x3IU.jpg"
+        },
+        {
+          "name": "Running shoes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Asics_Gel-Cumulus_22.jpg",
+          "price": 24,
+          "id": 7,
+          "description": "",
+          "category": "shoes"
+        },
+        {
+          "name": "Sport Jacket",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Polo_Ralph_Lauren_-_Sport_Coat.jpg",
+          "price": 109.99,
+          "id": 8,
+          "description": "",
+          "category": "jackets"
+        },
+        {
+          "name": "Red man's shirt",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Shirt%2C_men%27s_%28AM_2015.44.1-1%29.jpg",
+          "description": "",
+          "price": 39.99,
+          "category": "shirts",
+          "id": 9
+        },
+        {
+          "name": "Panama hat",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Panama_hat.jpg",
+          "description": "",
+          "price": 25.45,
+          "category": "hats",
+          "id": 10
+        }
+    ]
+}
