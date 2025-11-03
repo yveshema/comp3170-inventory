@@ -31,7 +31,7 @@
             "price": 69,
             "description": "",
             "category": "electronics",
-            "image_url": "https://i.imgur.com/ZANVnHE.jpeg"
+            "image": "https://i.imgur.com/ZANVnHE.jpeg"
         },
         {
           "id": 5,
@@ -39,7 +39,7 @@
           "price": 44,
           "description": "",
           "category": "electronics",
-          "image_url": "https://i.imgur.com/yVeIeDa.jpeg"
+          "image": "https://i.imgur.com/yVeIeDa.jpeg"
         },
         {
           "id": 6,
@@ -47,7 +47,7 @@
           "price": 37,
           "description": "",
           "category": "miscellaneous",
-          "image_url": "https://i.imgur.com/Ex5x3IU.jpeg"
+          "image": "https://i.imgur.com/Ex5x3IU.jpeg"
         },
         {
           "name": "Running shoes",
